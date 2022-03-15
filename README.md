@@ -5,4 +5,4 @@
 - Standby buffer of at least 12 hours
 - Étanche à l'eau et aux impacts
 - Plug n play avec le système actuel (utilisation transparente)
-- Avoir accès aux données en temps réelle (au moins 10Hz) 
+- Avoir accès aux données en temps réelle (au moins 20Hz) 
