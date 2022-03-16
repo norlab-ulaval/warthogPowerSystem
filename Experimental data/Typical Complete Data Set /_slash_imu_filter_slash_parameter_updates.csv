@@ -1,0 +1,2 @@
+rosbagTimestamp,bools,ints,strs,doubles,-,name,value,-,name,value,-,name,value,-,name,value,-,name,value,-,name,value,groups,-,name,state,id,parent
+1645113668216029632,[],[],[],,"""gain""",0.1,"""zeta""",0.001,"""mag_bias_x""",0.0,"""mag_bias_y""",0.0,"""mag_bias_z""",0.0,"""orientation_stddev""",0.0,,"""Default""",True,0,0
