@@ -6,4 +6,4 @@
 - Étanche à l'eau et aux impacts
 - Plug n play avec le système actuel (utilisation transparente)
 - Avoir accès aux données en temps réelle (au moins 20Hz) 
-- Available footprint in robot's frame: 0.6m (length) X 0.5m (width) X 0.2m (height)
+- Available footprint in robot's frame for battery installation: 0.6m (length) X 0.5m (width) X 0.2m (height)
